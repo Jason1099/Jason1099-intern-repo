@@ -9,3 +9,5 @@
 ## Wednesday - Friday:
 > 3pm - 5pm
 > Location: Work From Home
+
+**Planned to spread out my plan of 10 hour work weeks
