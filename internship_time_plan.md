@@ -1,6 +1,8 @@
 ## Monday:
->Time: 9am - 11am
+>Time: 3Pm - 4Pm
 >Location: Swinburne in person workday
+>Time: 10Pm - 11Pm
+>Location: Work From Home
 
 ## Tuesday:
 >Time: 9am - 11am
