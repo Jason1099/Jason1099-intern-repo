@@ -29,3 +29,52 @@
       
 3. If you need something urgent:
    - Give me a call on whatsapp
+  
+## Collaboration & Teamwork:
+- I work best in a team when:
+-        I understand every member's role in the team, hence i know how my work fits in
+-        Teammates are friendly and respectful
+
+- My biggest pet peeve in teamwork is:
+-         Teammates are uncooperative and get no work done.
+
+- If I seem quiet in a meeting, it usually means:
+-         I'm trying to take in whats happening in the meeting
+-         I'm feeling uncomfortable
+-         *I'm more of an introvert, so I would be more quiet in general
+
+## Focus & Productivity:
+- I stay focused by:
+-         Being in a quiet place, with no distractions
+
+- Things that distract me:
+-         Social media
+-         Games
+-         Youtube videos
+
+- The best way to support my productivity is
+-         Keep the tasks that are given to me concise and precise. 
+
+## Feedback & Growth:
+- I like feedback to be:
+-         Direct and gentle
+-         would prefer private feedback
+
+- When I make a mistake, the best way to let know is:
+-         Just tell me directly, either verbally or my messaging me is totally fine
+
+- I appreciate it when teammates:
+-         Are direct and honest with me
+-         Are supportive
+
+## Fun Facts & Quirks
+- One thing people often misunderstand about me is:
+-         I may seem awkward and quiet at times, but that's because I'm introverted. I would love to try and talk about things with anyone
+  
+- A fun fact about me:
+-         I love playing chess (although I'm not that good at it :( )
+  
+- My work superpower:
+-         I usually learn new things quickly
+-         I can sit and do a single task for hours on end. 
+
