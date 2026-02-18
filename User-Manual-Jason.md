@@ -57,24 +57,24 @@
 
 ## Feedback & Growth:
 - I like feedback to be:
--         Direct and gentle
--         would prefer private feedback
+    - Direct and gentle
+    - would prefer private feedback
 
 - When I make a mistake, the best way to let know is:
--         Just tell me directly, either verbally or my messaging me is totally fine
+    - Just tell me directly, either verbally or my messaging me is totally fine
 
 - I appreciate it when teammates:
--         Are direct and honest with me
--         Are supportive
+    - Are direct and honest with me
+    - Are supportive
 
 ## Fun Facts & Quirks
 - One thing people often misunderstand about me is:
--         I may seem awkward and quiet at times, but that's because I'm introverted. I would love to try and talk about things with anyone
+    - I may seem awkward and quiet at times, but that's because I'm introverted. I would love to try and talk about things with anyone
   
 - A fun fact about me:
--         I love playing chess (although I'm not that good at it :( )
+    - I love playing chess (although I'm not that good at it :( )
   
 - My work superpower:
--         I usually learn new things quickly
--         I can sit and do a single task for hours on end. 
+    - I usually learn new things quickly
+    - I can sit and do a single task for hours on end. 
 
