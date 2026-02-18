@@ -32,28 +32,28 @@
   
 ## Collaboration & Teamwork:
 - I work best in a team when:
--        I understand every member's role in the team, hence i know how my work fits in
--        Teammates are friendly and respectful
+    - I understand every member's role in the team, hence i know how my work fits in
+    - Teammates are friendly and respectful
 
 - My biggest pet peeve in teamwork is:
--         Teammates are uncooperative and get no work done.
+    - Teammates are uncooperative and get no work done.
 
 - If I seem quiet in a meeting, it usually means:
--         I'm trying to take in whats happening in the meeting
--         I'm feeling uncomfortable
--         *I'm more of an introvert, so I would be more quiet in general
+    - I'm trying to take in whats happening in the meeting
+    - I'm feeling uncomfortable
+    - *I'm more of an introvert, so I would be more quiet in general
 
 ## Focus & Productivity:
 - I stay focused by:
--         Being in a quiet place, with no distractions
+    - Being in a quiet place, with no distractions
 
 - Things that distract me:
--         Social media
--         Games
--         Youtube videos
+    - Social media
+    - Games
+    - Youtube videos
 
 - The best way to support my productivity is
--         Keep the tasks that are given to me concise and precise. 
+    - Keep the tasks that are given to me concise and precise. 
 
 ## Feedback & Growth:
 - I like feedback to be:
