@@ -61,7 +61,14 @@ Communication wise, making text harder to read, or making instructions or guides
 ## What is one practical change you can make in your work to better support vulnerable populations
 I think a simple thing I can change when working is deffinitely in communication. As explained before, make text clear, plain and direct, give a heads up on things beforehand, and do more written communication 
 
-## Extra: Task; Identify one design or communication improvement that could make Focus Bear more accessible.
+## Task; Identify one design or communication improvement that could make Focus Bear more accessible.
 After testing and reviewing the app (windows), I think a design improvement that could be made is regarding the customisability process. The app provides a way to change font, language and dark mode. However, when I tried changing these settings, it always needed a full restart of the app, which can be quite disruptive and annoying. For people with ADHD, this may break their attention to the app and decide to stop using it. <br/>
 Other than that, there should be more options regarding color changes, and perhaps layout customisability. 
+
+## Task; read first hand accounts of using productivity tools
+I've read some discussion on reddit on this, and what I've found: <br/>
+- Sometimes a tool works one day, and doesn't really work for someone on another
+- Sometimes they don't work in the long run
+- To-do lists help alot for people with ADHD, but can be difficult to stick to them 
+
 
