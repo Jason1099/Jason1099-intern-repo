@@ -37,7 +37,10 @@ Make sure all passwords are strong and stored in the manager, and enable MFA on 
 ## What would you do if you suspected a security breach or suspicious activity on your account?
 1. Immediately change the password of the account
 2. Report the breach if confirmed
-3. Scan devices for malware or spyware and remove them. 
+3. Scan devices for malware or spyware and remove them.
+
+# Task: One new Habit
+A new habit I would do is to try use a VPN more when connected to a public network
 
 
 
