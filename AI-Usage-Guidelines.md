@@ -12,3 +12,11 @@ AI can help us learn and gain knowledge on things, but shouldn't directly perfor
 2. Anonymize data
 4. If possible, remove permission for prompts to be used by the AI tool for training, and remove any uneccesary permisions.
 5. Use trustworthy AI tools. 
+
+# Task:
+## One task I can improve using AI, and what was the results
+A task I can improve would be code cleanup and reviewing. AI is quite good at this based on my experience
+Based on their results in my experience, in some scenarios code generated can be a little off. Sometimes it is due to it being based on an older version of a library or module, or an innacurate version of it. So yes, it did need some rechecking. 
+
+## A new best practice when using AI:
+I would try to anonymize and remove any sensitive information into AI prompts. 
