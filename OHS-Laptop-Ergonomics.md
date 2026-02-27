@@ -34,4 +34,16 @@ I actually havent really implemented any new habits for behaviours, so I would l
 2. the 20-20-20 eye rule
 3. Try to sit upright instead of laying down or being hunched over
 
-## 
+## How can you remind yourself to maintain good posture and take breaks throughout the day?
+As suggested, I can easily use Focus Bear app to remind me to do so
+
+# Task
+## Identify at least one piece of equipment that could improve your posture and comfort
+An ergonomic chair would be nice
+
+## Try using posture and movement reminders for a full workday and note any improvements. 
+Will go back to this later!
+
+## Document at least one workspace change or habit adjustment you made
+I'm doing stretches and the 20-20-20 rule every now and then, and it really helps!
+
