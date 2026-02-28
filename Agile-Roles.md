@@ -1,7 +1,7 @@
 # Research
 ## What are the key roles in an Agile team, and what does each role do?
 1. Developers
--      Performs the activities needed to complete the project by using sprints. Includes progreammers, UX specialists, writers, testers, etc
+- Performs the activities needed to complete the project by using sprints. Includes progreammers, UX specialists, writers, testers, etc
 2. QA (Quality Assurance)
 -      I believe this refers to testers. As their name suggests, they create test strategies to test and assess quality of work
 3. Product Manager (PM)
