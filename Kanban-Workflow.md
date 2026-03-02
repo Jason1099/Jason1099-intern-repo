@@ -22,3 +22,7 @@ Kanban help manage priorities by letting cards or tasks to be labeled according 
 
 
 # Task
+Task 1 and 2: Added kanban on my github projects section
+
+## Identify one way you can improve task tracking in your role.
+Use the kanban daily, and update cards correctly as soon as possible. 
