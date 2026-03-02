@@ -12,4 +12,13 @@ I believe the person moving the cards should be the group/individual working on 
 It helps limit multitasking, making team members focus on less tasks. Also makes it easier to identify bottlenecks
 
 # Reflection
+## How does Kanban help manage priorities and avoid overload?
+Kanban help manage priorities by letting cards or tasks to be labeled according to their priority levels, and avoid overload by limiting the amount of tasks being done at the same time. 
+
+## How can you improve your workflow using Kanban principles?
+- I can improve my workflow by planning/visualizing it, as I can see the whole board for myself and see where Im at.
+- Focus on less tasks at once with WIP limiting
+- Discuss changes or finished tasks with the team
+
+
 # Task
