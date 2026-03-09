@@ -4,8 +4,15 @@
 >Time: 10Am - 11Am
 >Location: Work From Home
 
-## Wednesday - Friday:
+## Wednesday - Thursday:
 > 1pm - 4pm
 > Location: Work From Home
 
-*Planned to spread out my plan of 11 hour work weeks*
+## Friday:
+> 1pm - 5pm
+> Location: Work From Home
+
+*Planned to spread out my plan of 12 hour work weeks*
+
+## Snippet of using Focus Bear focus sessions for logging time:
+![Snippet](images/focus_log_snippet.png)
