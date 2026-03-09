@@ -40,7 +40,7 @@ As suggested, I can easily use Focus Bear app to remind me to do so
 # Task
 ## Adjust your laptop setup based on ergonomic best practices.
 Ive adjusted the distance of my monitor and laptop, along with using a keyboard and mouse!
-![Work Setup](images/work_setup.jpg)
+![Work Setup](images/work_setup.jpeg)
 
 ## Identify at least one piece of equipment that could improve your posture and comfort
 An ergonomic chair would be nice
