@@ -38,11 +38,15 @@ I actually havent really implemented any new habits for behaviours, so I would l
 As suggested, I can easily use Focus Bear app to remind me to do so
 
 # Task
+## Adjust your laptop setup based on ergonomic best practices.
+Ive adjusted the distance of my monitor and laptop, along with using a keyboard and mouse!
+![Work Setup](images/work_setup.jpg)
+
 ## Identify at least one piece of equipment that could improve your posture and comfort
 An ergonomic chair would be nice
 
 ## Try using posture and movement reminders for a full workday and note any improvements. 
-Will go back to this later!
+I've used focus bear's micro break feature during focus sessions, and I've noticed my neck and back is less strained and stiff now. 
 
 ## Document at least one workspace change or habit adjustment you made
 I'm doing stretches and the 20-20-20 rule every now and then, and it really helps!
