@@ -15,8 +15,13 @@ AI can help us learn and gain knowledge on things, but shouldn't directly perfor
 
 # Task:
 ## One task I can improve using AI, and what was the results
-A task I can improve would be code cleanup and reviewing. AI is quite good at this based on my experience
-Based on their results in my experience, in some scenarios code generated can be a little off. Sometimes it is due to it being based on an older version of a library or module, or an innacurate version of it. So yes, it did need some rechecking. 
+A task I can improve would be code cleanup, reviewing or generating. AI is quite good at this based on my experience. For example:
+I've asked Gemini to help guide and generate code for data preparation and cleanup for a machine learning project. Specificall I asked "I would like to find duplicates in a dataset, and find their indexes". The output gave good explanations along with some code output:
+
+![Code 1](images/AI_code_1.png)
+![Code 2](images/AI_code_2.png)
+
+In this case, I checked and verified the results by directly using and testing it for the results. It did not require any further editing. 
 
 ## A new best practice when using AI:
 I would try to anonymize and remove any sensitive information into AI prompts. 
