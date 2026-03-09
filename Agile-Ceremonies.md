@@ -25,6 +25,8 @@ I believe if I had to choose one, it would be the daily standups. I think for a 
 ## Attend a stand-up meeting and observe how updates are shared.
 I have gone to a few stand up meetings, and updates are straightforward. Attendees share their progress and ask questions in turns, and Jeremy may also give updates and hand out new tasks.
 
+For example, I've attended a standup meeting at the 2nd of March, 13:45 - 14:00. I've discussed that I finished most of the onboarding issues, and Jeremy then directed me to research about Open Claw. I did not take a screenshot unfortunately. 
+
 ## Participate in a retrospective or review past notes from one.
 Will do so when a meeting happens
 
