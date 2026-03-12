@@ -22,7 +22,7 @@ Open Claw has a lot of options in what model or provider to use.
 
 # Downlaoding Skills for OpenClaw
 Open Claw can download skills to use through clawhub, by running:
-> clawhub install <skill name>
+> clawhub install "skill name"
 
 A list of skills can be seen in the [ClawHub](https://clawhub.ai/skills?sort=downloads) site. 
 
