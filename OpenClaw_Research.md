@@ -43,7 +43,7 @@ Another possible idea would be to let Open Claw view the app visually (take snap
 ## QA Automation
 
 As I've suggested before, a way we could do this is to utilise the pywinauto library to perform tasks directly in the desktop. <br/>
-To see if it can detect and "see" the focus bear app, I used a test script to print out the list of control identifiers of the app. A printed out example can be seen in this [file]("OpenClaw Scripts/control_identifiers.txt") <br/>
+To see if it can detect and "see" the focus bear app, I used a test script to print out the list of control identifiers of the app. A printed out example can be seen in this [file](OpenClaw_Scripts/control_identifiers.txt) <br/>
 
 Afterwards, I generated a script to run and interact with a button. In this case, I tested it to click the "habits" button. Some findings I've found:
 1. It couldn't directly find a tree item called "Habits". It was a static item under a navleaf item, so it needed to find this text and click on the parent item. Open Claw wans't able to generate this code correctly even when given the list of identifiers
@@ -52,7 +52,7 @@ Afterwards, I generated a script to run and interact with a button. In this case
 4. Open claw alse needs some configurations to allow it to run python scripts. In some occasions, it told me that it didn't have the capability to do so, even when I confirmed that it did.
 5. Python libraries need to be installed prior for scripts to work. Didn't test whether open claw could or would download python libraries automatically. 
 
-the python files can be found under the [OpenClaw Scripts Folder]("OpenClaw Scripts")
+the python files can be found under the [OpenClaw Scripts Folder](OpenClaw_Scripts/)
 
 Hence based on this:
 1. Open Claw code generation (at least with the model I've tested, which is gpt-4o) is not good enough to handle these nuances and manage problems itself.
